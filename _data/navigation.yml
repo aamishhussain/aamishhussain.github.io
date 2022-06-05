@@ -1,14 +1,5 @@
 # main links links
 main:
-  - title: "Race against the machine"
-    url: /projectgroup/
-
-  - title: "Slurry deposition printer"
-    url: /printer/    
-
-  - title: "synchronizing humans and machines"
-    url: /smartwatch/    
-    
   - title: "Projects"
     url: /projects/
 
