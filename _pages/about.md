@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! It's Aamish Hussain"
+title: "Hi! It's Aamish"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-These Webpages are under-construction!
+These Webpages are  under-construction!
