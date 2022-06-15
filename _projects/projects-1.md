@@ -16,7 +16,7 @@ Relatively un-explored domain of 3D printing on a body part is the main challeng
 
 
 ## Experimental Setup and User Interface
-![Gui](https:/images/gui.jpg) ![ExpSetup](/images/ExpSetup.png)
+![Gui](/images/gui.jpg) ![ExpSetup](/images/ExpSetup.png)
 
 
 
