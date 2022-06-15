@@ -8,18 +8,15 @@ Although 3D printers could design models for prototyping such as designing and t
 Relatively un-explored domain of 3D printing on a body part is the main challenge in this body of work, which is tackled using state of the art sensing technology.
 ---
 
-###Tools Used:  [^1]
-
-![alt text](/images/printer-tech-stack.png)
+Tools Used:  [^1] ![alt text](/images/printer-tech-stack.png)
 
 
 ###Outlook of the system: 
 ![alt text](/images/endtoend.png)
 
 
-User Interface            |  Experimental Setup
-:-------------------------:|:-------------------------:
-![](https:/images/gui.jpg)  |  ![](https:/images/ExpSetup.png)
+
+![Gui](https:/images/gui.jpg "GUI") ![ExpSetup](image2.png "Setup")
 
 
 [^1]: These are the tools used during the project, no claim is made here regarding affiliation or endorsement.
