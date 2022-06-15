@@ -15,7 +15,7 @@ The above image shows technologies being used by our project implementation
 
 The above image shows our conceptual block diagram
 
-![alt text](/images/gui.jpg.png)
+![alt text](/images/gui.jpg)
 
 The above image shows our Graphical user interface
 
