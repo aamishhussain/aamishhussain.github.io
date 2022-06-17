@@ -1,6 +1,6 @@
 ---
 title: "A printer for Asperous Surfaces"
-excerpt: "Removing the flat bed constraint from 3D printers<br/><img src='/images/printer-tech-stack.png'>"
+excerpt: "Removing the flat print bed constraint for 3D printers<br/><img src='/images/printer-tech-stack.png'>" [^1]
 collection: projects
 ---
 Although 3D printers could design models for prototyping such as designing and testing of structural elements it contained a problem; i.e. it could not print on non-flat surfaces. 
