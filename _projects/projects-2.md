@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Humans and Robots"
 excerpt: "Utilising visual-servoing to achieve synchronisation of a running human's face with robotic mechanism."
-collection: portfolio
+collection: projects
 ---
 
 Every wondered how to consume your favourite content while exercising?  We have the answer [^1]
