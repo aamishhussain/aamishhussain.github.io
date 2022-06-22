@@ -1,23 +1,22 @@
 ---
-title: "Race against the Machine"
-excerpt: "Testing tele-operation capabilities that 5G through a race with autonomous cars<br/><img src='/images/tech-stack-racing.png'>"
+title: "A printer for Asperous Surfaces"
+excerpt: "Removing the flat print bed constraint for 3D printers<br/><img src='/images/printer-tech-stack.png'>"
 collection: projects
 ---
+Although 3D printers could design models for prototyping such as designing and testing of structural elements it contained a problem; i.e. it could not print on non-flat surfaces. 
 
-5g tele-operation of cars is a robust approach to rescue autonomous cars which fail to navigate on their own or are stuck. 
-In this project group we demonstrated effectiveness this approach by racing two cars on the same track. One of them was tele-operated over the 5G network and the other running autonomously. Our team implemented both approaches.  
-
-## Tools Used:  [^1] ![alt text](/images/tech-stack-racing.png)
-
-## Subsystems and overall approach:
-
-# add that bokeh picture here
-
-## User Interface
+Relatively un-explored domain of 3D printing on a body part is the main challenge in this body of work, which is tackled using state of the art sensing technology.
 
 
+## Tools Used:  [^1] ![alt text](/images/printer-tech-stack.png)
 
-## Experimental Setup  # add a chicken piece photo here
+
+## Outlook of the system
+![alt text](/images/endtoend.png)
+
+
+## Experimental Setup and User Interface
+![Gui](/images/gui.jpg) ![ExpSetup](/images/ExpSetup.png)
 
 
 
