@@ -1,6 +1,6 @@
 ---
 title: "Race against the Machine"
-excerpt: "Testing tele-operation capabilities that 5G through a race with autonomous cars <br/><img src='/images/tech-stack-racing.png'>" [^1]
+excerpt: "Testing tele-operation capabilities that 5G through a race with autonomous cars<br/><img src='/images/tech-stack-racing.png'>"
 collection: projects
 ---
 
