@@ -13,7 +13,7 @@ I am interested in how machine learning and computer vision come together to ach
 
 Before starting my master's studies, I obtained a Bachelor of Engineering degree in Mechatronics from the National University of Sciences and Technology, Pakistan. 
 
-When I’m not writing code, I’m probably outside running or playing tennis. I’ve become passionate about sport’s ability to drive social inclusion and I love meeting new people through sports
+When I’m not writing code, I’m probably outside running or playing tennis. I’ve become passionate about sport’s ability to drive social inclusion and I love meeting new people through sports.
 
 I am actively looking for internships and work-student roles.
 
