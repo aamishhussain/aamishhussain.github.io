@@ -15,7 +15,7 @@ This project was carried out under Communication Networks Institute at TU Dortmu
 
 ## Subsystems and overall approach: [^2]
 
-![alt text](/images/RATM overall.jpg)
+![alt text](/images/RATM overall.JPG)
 
 ## User Interface: [^2]
 
