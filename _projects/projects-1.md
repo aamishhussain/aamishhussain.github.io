@@ -9,20 +9,22 @@ In this project group we demonstrated effectiveness this approach by racing two 
 
 ## Tools Used:  [^1] ![alt text](/images/tech-stack-racing.png)
 
-## Subsystems and overall approach:
+## Acknowledgments
 
-# add that bokeh picture here
+This project was carried out under Communication Networks Institute at TU Dortmund. We are especially thankful for the guidance and resources we had at our disposal during the project. 
 
-## User Interface
+## Subsystems and overall approach: [^2]
 
+![alt text](/images/RATM overall.png)
 
+## User Interface: [^2]
 
-## Experimental Setup  # add a chicken piece photo here
-
+![alt text](/images/RATM gui.png)
 
 
 
 [^1]: These are the tools used during the project, no claim is made here regarding affiliation or endorsement.
+[^2]: The media content is owned by CNI (https://cni.etit.tu-dortmund.de/) and shouldn't be reproduced withoud explicit consent from the owners.
 
 
 
