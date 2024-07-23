@@ -3,9 +3,9 @@ title: "A printer for Asperous Surfaces"
 excerpt: "Removing the flat print bed constraint for 3D printers<br/><img src='/images/printer-tech-stack.png'>"
 collection: projects
 ---
-Although 3D printers could design models for prototyping such as designing and testing of structural elements it contained a problem; i.e. it could not print on non-flat surfaces. 
+Although 3D printers are excellent for prototyping, such as in designing and testing structural elements, they have a significant limitation: they cannot print on non-flat surfaces.
 
-Relatively un-explored domain of 3D printing on a body part is the main challenge in this body of work, which is tackled using state of the art sensing technology.
+The relatively unexplored domain of 3D printing on irregular or complex surfaces, such as body parts, is the main challenge in this body of work. This challenge is addressed using state-of-the-art sensing technology and integration of hardware and software submodules.
 
 
 ## Tools Used:  [^1] ![alt text](/images/printer-tech-stack.png)
