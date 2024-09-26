@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-As of 17 July 2024
+last updated: 26 Sep 2024
 <br/>
 
-<embed src="/files/Aamish Resume.pdf" type="application/pdf" width="100%" />
+<embed src="/files/resume v2.3.pdf" type="application/pdf" width="100%" />
