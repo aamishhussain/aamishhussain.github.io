@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my MS in automation and robotics at TU Dortmund.
-I am interested in how machine learning and computer vision come together to achieve tasks in robotics. I am actively pursuing this interest by taking problem-based courses in these subjects. Along the way, I am learning exciting new tools.
+I recently completed my Master of Science in Automation and Robotics at TU Dortmund, where I focused on the intersection of machine learning and computer vision in robotics. This area fascinates me because of its potential to solve complex challenges, and I’ve deepened my expertise through hands-on, problem-based courses in these subjects. Along the way, I have come in contact with exciting new tools.
 
 Before starting my master's studies, I obtained a Bachelor of Engineering degree in Mechatronics from the National University of Sciences and Technology, Pakistan. 
 
-When I’m not writing code, I’m probably outside running or playing tennis. I’ve become passionate about sport’s ability to drive social inclusion and I love meeting new people through sports.
+When I’m not writing code, I’m probably outside running or playing tennis. I am passionate about sport’s ability to drive social inclusion and I love meeting new people through sports.
 
-I am actively looking for full-time roles.
+I’m currently seeking full-time opportunities where I can apply my skills and contribute to advancing technology in robotics and related fields.
 
